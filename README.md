@@ -8,6 +8,7 @@ Sou um programador apaixonado por tecnologia, focado em criar soluções eficien
 * Estudo em tempo integral na escola CEDUP Diomício Freitas
 * Completei um curso de programação, aprendendo o básico sobre **HTML, CSS e JS**
 * Estou estudando: **HTML, CSS, C# e PYTHON**
+* Tenho um nivel de inglês intermediario
 * Como me encontrar: **nii.machado111@gmail.com**
 
 ---
